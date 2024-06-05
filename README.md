@@ -19,7 +19,7 @@ Junior Back-End Developer with a lifelong passion for technology and coding. Whi
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Matteo-Solinas&show_icons=true&locale=en" alt="matteo-solinas" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matteo-Solinas&show_icons=true&hide_border=true)
 
 ---
 

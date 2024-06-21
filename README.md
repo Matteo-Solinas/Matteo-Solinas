@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matteo, and Welcome to my Github! ✌</h1>
 
 <h3 align="left">📌 About Me</h3>
-Junior Back-End Developer with a lifelong passion for technology and coding. While I entered the programming world later than some, I'm a fast learner with a hunger to master new technologies. I constantly seek new challenges to hone my skills and push my boundaries, striving to improve myself every day. Currently proficient in Java, SQL, and Git. I'm actively learning Spring and continuously expanding my technical skillset.
+Junior Back-End Developer with a lifelong passion for technology and coding. While I entered the programming world later than some, I'm a fast learner with a hunger to master new technologies. I constantly seek new challenges to hone my skills and push my boundaries, striving to improve myself every day. Currently proficient in Java, SQL, Spring, and Git. I'm actively learning Docker, MongoDB and continuously expanding my technical skillset.
 
 ---
 
